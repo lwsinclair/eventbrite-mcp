@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ibraheem4-eventbrite-mcp-badge.png)](https://mseep.ai/app/ibraheem4-eventbrite-mcp)
+
 # Eventbrite MCP Server
 
 This is a Model Context Protocol (MCP) server that provides tools for interacting with the Eventbrite API. It allows AI assistants to search for events, get event details, retrieve venue information, and more.
